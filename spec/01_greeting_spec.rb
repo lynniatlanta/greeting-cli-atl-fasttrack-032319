@@ -1,6 +1,3 @@
-def greeting(name)
-end
-
 require_relative "../lib/greeting.rb"
 
 describe './lib/greeting.rb' do
